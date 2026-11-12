@@ -14,7 +14,7 @@ The dataset includes 100 students with the following information:
 - Average Examination Score
 
 ## Files
-- `generate_dataset.py` → Python script used to generate the dataset
+- main.py → Python script used to generate the dataset
 - `student_dataset.csv` → The generated student dataset
 - `README.md` → Project explanation
 
