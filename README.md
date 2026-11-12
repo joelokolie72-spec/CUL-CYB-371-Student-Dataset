@@ -21,5 +21,5 @@ The dataset includes 100 students with the following information:
 ## How the Dataset Was Created
 The dataset was generated using Python.
 
-**Created by:** Joel chibuikem okolie  
+**Created by:** Joel Chibuikem Okolie  
 **Date:** November 2026
